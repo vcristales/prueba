@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ejercicio Api\\Apibimbo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E2915B-529E-489A-8371-1E989D75C1F2}|Apibimbo\\Apibimbo.csproj|c:\\ejercicio api\\apibimbo\\apibimbo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E2915B-529E-489A-8371-1E989D75C1F2}|Apibimbo\\Apibimbo.csproj|solutionrelative:apibimbo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E2915B-529E-489A-8371-1E989D75C1F2}|Apibimbo\\Apibimbo.csproj|c:\\ejercicio api\\apibimbo\\apibimbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E2915B-529E-489A-8371-1E989D75C1F2}|Apibimbo\\Apibimbo.csproj|solutionrelative:apibimbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E2915B-529E-489A-8371-1E989D75C1F2}|Apibimbo\\Apibimbo.csproj|c:\\ejercicio api\\apibimbo\\apibimbo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9E2915B-529E-489A-8371-1E989D75C1F2}|Apibimbo\\Apibimbo.csproj|solutionrelative:apibimbo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E2915B-529E-489A-8371-1E989D75C1F2}|Apibimbo\\Apibimbo.csproj|c:\\ejercicio api\\apibimbo\\apibimbo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9E2915B-529E-489A-8371-1E989D75C1F2}|Apibimbo\\Apibimbo.csproj|solutionrelative:apibimbo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Ejercicio Api\\Apibimbo\\Apibimbo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Apibimbo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Ejercicio Api\\Apibimbo\\Apibimbo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Apibimbo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T15:17:25.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ejercicio Api\\Apibimbo\\Apibimbo\\Program.cs",
+              "RelativeDocumentMoniker": "Apibimbo\\Program.cs",
+              "ToolTip": "C:\\Ejercicio Api\\Apibimbo\\Apibimbo\\Program.cs",
+              "RelativeToolTip": "Apibimbo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T15:11:42.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Ejercicio Api\\Apibimbo\\Apibimbo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Apibimbo\\appsettings.Development.json",
+              "ToolTip": "C:\\Ejercicio Api\\Apibimbo\\Apibimbo\\appsettings.Development.json",
+              "RelativeToolTip": "Apibimbo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T15:11:12.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Ejercicio Api\\Apibimbo\\Apibimbo\\appsettings.json",
+              "RelativeDocumentMoniker": "Apibimbo\\appsettings.json",
+              "ToolTip": "C:\\Ejercicio Api\\Apibimbo\\Apibimbo\\appsettings.json",
+              "RelativeToolTip": "Apibimbo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T15:11:06.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

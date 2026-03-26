@@ -1,0 +1,6 @@
+@Apibimbo_HostAddress = http://localhost:5010
+
+GET {{Apibimbo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
